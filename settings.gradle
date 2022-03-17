@@ -1,3 +1,6 @@
 rootProject.name = 'programming-in-java'
 include 'lab00'
+include 'proj1'
+include 'Benjamin_BERNARD_Lab5_group1:Benjamin_BERNARD_Lab5_group1'
+findProject(':Benjamin_BERNARD_Lab5_group1:Benjamin_BERNARD_Lab5_group1')?.name = 'Benjamin_BERNARD_Lab5_group1'
 
